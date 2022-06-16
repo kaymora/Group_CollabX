@@ -12,4 +12,7 @@ public class FirstClass<hood, baby> {
 
     //4 . Dilshod, stop sleeping during our meetings!
 
+    // Khosiyat stop eating
+
+
 }
